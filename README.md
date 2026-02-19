@@ -33,3 +33,5 @@ Overall, this project demonstrates how front-end technologies can be combined to
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/437be948-9381-41c0-8625-e54c3af81b09" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/53456f3f-abe6-4bf1-a0b3-439ad630413d" />
+
