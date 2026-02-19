@@ -31,3 +31,5 @@ Overall, this project demonstrates how front-end technologies can be combined to
 *OUTPUT*:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e8c2929-28de-4739-928e-9bec59036695" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/437be948-9381-41c0-8625-e54c3af81b09" />
+
