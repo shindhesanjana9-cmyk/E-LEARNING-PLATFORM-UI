@@ -29,3 +29,5 @@ The JavaScript functionality connects all parts of the platform. It controls nav
 Overall, this project demonstrates how front-end technologies can be combined to create an interactive and animated learning platform interface. It helps learners understand important concepts such as single page navigation, animation effects, dynamic content display, and local data storage. This type of project also provides a strong foundation for developing advanced e-learning systems that may include user login, course enrollment, quizzes, certificates, live classes, and database integration in future full-stack development.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e8c2929-28de-4739-928e-9bec59036695" />
+
